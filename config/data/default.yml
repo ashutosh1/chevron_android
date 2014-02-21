@@ -1,0 +1,30 @@
+settings_button_index:
+  use_my_location_for_promotions: 0
+  show_me_both_station_result: 1
+  use_gps_to_track_stations: 2
+
+credit_card_webview_page:
+  login: "https://chevrontexaco.mycreditcard.mobi/mservice/login.do"
+  apply_today: "https://www.onlinecreditcenter2.com/mapplygen4/load.do"
+
+highlighted_icon:
+  icon_ids: ["station_list_item_pointer_number_primary_blue", "station_list_item_pointer_number_primary_red"] 
+
+all_service_icon:
+  service_icon_ids: ["station_finder_detail_fragment_extra_mile_icon", "station_finder_detail_fragment_diesel_icon", "station_finder_detail_fragment_store_icon", "station_finder_detail_fragment_car_wash_icon", "station_finder_detail_fragment_gift_icon"]  
+
+station_list_service_icon:
+  icon_ids: ["station_list_item_wash_icon", "station_list_item_store_icon", "station_list_item_diesel_icon", "station_list_item_extramile_icon"]
+
+station_brands:
+  brands: ["Texaco", "Chevron"]
+
+stations_list_attributes:
+  attr_ids: ["station_list_item_street_address", "station_list_item_city_address", "station_list_item_brand", "station_list_item_distance"]
+
+route_planner_images:
+  from_and_destination_images: ["from_image", "destination_image"]
+
+route_planner_input:
+  start: route_planner_start_edit_text
+  end: route_planner_end_edit_text  
